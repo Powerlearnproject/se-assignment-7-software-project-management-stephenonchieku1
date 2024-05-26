@@ -60,6 +60,10 @@ Answer the following questions based on your understanding of software project m
 
 8. Project Monitoring and Control:
    - How do project managers monitor and control the progress of a software project? Describe some key performance indicators (KPIs) and tools used for this purpose.
+       Monitoring:
+          Project managers track progress, compare actual vs. planned performance, and identify deviations from the plan.
+      Control: 
+         Adjustments are made to bring the project back on track. Key performance indicators (KPIs) such as cost variance, schedule variance, and defect density are used to assess project health.
 
 9. Communication Management:
    - Describe the significance of communication management in software project management. What are some effective communication strategies and tools?

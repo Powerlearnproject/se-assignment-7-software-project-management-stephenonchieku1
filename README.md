@@ -46,6 +46,10 @@ Answer the following questions based on your understanding of software project m
 
 6. Resource Management:
    - Discuss the importance of resource management in software projects. How do project managers ensure that resources are allocated efficiently?
+            Importance:
+                Efficient resource management ensures that the right people, equipment, and materials are available at the right time, optimizing productivity and minimizing costs.
+            Allocation: 
+               Project managers allocate resources based on project requirements, availability, and skill sets, often using resource leveling techniques to balance workload.
 
 7. Quality Management:
    - Explain the role of quality management in software projects. What practices and standards are typically employed to ensure the quality of the software product?

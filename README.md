@@ -53,6 +53,10 @@ Answer the following questions based on your understanding of software project m
 
 7. Quality Management:
    - Explain the role of quality management in software projects. What practices and standards are typically employed to ensure the quality of the software product?
+            Role:    
+                  Quality management ensures that the software product meets specified requirements and standards, aiming for customer satisfaction and minimizing defects.
+            Practices:
+                Quality assurance processes, code reviews, testing methodologies like unit testing, integration testing, and acceptance testing, and adherence to industry standards such as ISO 9001.
 
 8. Project Monitoring and Control:
    - How do project managers monitor and control the progress of a software project? Describe some key performance indicators (KPIs) and tools used for this purpose.

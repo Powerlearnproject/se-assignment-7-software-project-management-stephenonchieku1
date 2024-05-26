@@ -16,6 +16,10 @@ Answer the following questions based on your understanding of software project m
 
 2. Project Life Cycle:
    - Describe the stages of the software project life cycle. What activities are typically performed in each stage?
+      Stages:
+       The software project life cycle typically consists of stages such as initiation, planning, execution, monitoring and controlling, and closure.
+   Activities: 
+      In the initiation stage, project objectives are defined. Planning involves creating a roadmap, resource allocation, and risk assessment. Execution involves actual development work. Monitoring and controlling ensure that the project stays on track. Closure involves delivering the final product and evaluating the project's success.
 
 3. Project Management Methodologies:
    - Compare and contrast at least two software project management methodologies (e.g., Agile, Waterfall, Scrum, Kanban). What are the advantages and disadvantages of each?

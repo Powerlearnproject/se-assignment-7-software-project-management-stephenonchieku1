@@ -39,6 +39,10 @@ Answer the following questions based on your understanding of software project m
 
 5. Risk Management:
    - What is risk management in the context of software projects? Outline the process of identifying, assessing, and mitigating risks.
+            Definition: 
+               Risk management involves identifying potential risks, assessing their likelihood and impact, and implementing strategies to mitigate or manage them.
+            Process:
+                Identify risks, assess their probability and impact, prioritize risks, develop risk response strategies, and continuously monitor and reassess risks throughout the project.
 
 6. Resource Management:
    - Discuss the importance of resource management in software projects. How do project managers ensure that resources are allocated efficiently?

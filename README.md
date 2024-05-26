@@ -32,6 +32,10 @@ Answer the following questions based on your understanding of software project m
 
 4. Project Planning:
    - Explain the key components of project planning in software project management. What tools and techniques are commonly used to create a project plan?
+         Key Components: 
+            Project scope, schedule, budget, resources, risk management plan, and communication plan are key components.
+         Tools and Techniques:
+             Gantt charts, work breakdown structures (WBS), network diagrams, and project management software like Microsoft Project are commonly used.
 
 5. Risk Management:
    - What is risk management in the context of software projects? Outline the process of identifying, assessing, and mitigating risks.

@@ -23,6 +23,9 @@ Answer the following questions based on your understanding of software project m
 
 3. Project Management Methodologies:
    - Compare and contrast at least two software project management methodologies (e.g., Agile, Waterfall, Scrum, Kanban). What are the advantages and disadvantages of each?
+         Agile: Agile emphasizes iterative development, collaboration, and customer feedback. It allows for flexibility and adaptability but may require more client involvement.
+Waterfall: Waterfall follows a linear, sequential approach with distinct phases. It offers clear milestones but may lack flexibility for changes later in the project.
+Comparison: Agile is more suited for projects with changing requirements, while Waterfall is better for projects with well-defined requirements upfront.
 
 4. Project Planning:
    - Explain the key components of project planning in software project management. What tools and techniques are commonly used to create a project plan?

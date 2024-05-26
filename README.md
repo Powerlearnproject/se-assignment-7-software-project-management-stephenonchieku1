@@ -9,6 +9,10 @@ Answer the following questions based on your understanding of software project m
 
 1. Definition and Importance of Software Project Management:
    - What is software project management, and why is it crucial in the context of software development projects?
+            Definition: 
+               Software project management involves planning, organizing, coordinating, and controlling resources to achieve specific software development goals within defined constraints such as time, budget, and scope.
+            Importance: 
+               It is crucial because it ensures that software projects are delivered on time, within budget, and with the expected quality. Effective project management minimizes risks, maximizes efficiency, and enhances communication among team members and stakeholders.
 
 2. Project Life Cycle:
    - Describe the stages of the software project life cycle. What activities are typically performed in each stage?

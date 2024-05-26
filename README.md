@@ -74,6 +74,10 @@ Answer the following questions based on your understanding of software project m
 
 10. Project Closure:
     - What are the steps involved in the closure of a software project? Why is the project closure phase important, and what activities are typically performed during this phase?
+            Steps: 
+                  Formal acceptance of deliverables, knowledge transfer to support teams, closure of contracts and documentation, evaluation of project success through lessons learned, and celebration of achievements.
+            Importance:
+                   Project closure ensures that all project objectives have been met, resources are released, and stakeholders are satisfied. It provides an opportunity to reflect on what went well and what could be improved for future projects.
 
 Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
